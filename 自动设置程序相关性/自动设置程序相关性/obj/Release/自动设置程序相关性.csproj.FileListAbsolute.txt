@@ -1,0 +1,10 @@
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\bin\Release\CoreDirector.exe.config
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\bin\Release\CoreDirector.exe
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\bin\Release\CoreDirector.pdb
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\obj\Release\自动设置程序相关性.csproj.AssemblyReference.cache
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\obj\Release\自动设置程序相关性.Form1.resources
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\obj\Release\自动设置程序相关性.Properties.Resources.resources
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\obj\Release\自动设置程序相关性.csproj.GenerateResource.cache
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\obj\Release\自动设置程序相关性.csproj.CoreCompileInputs.cache
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\obj\Release\CoreDirector.exe
+C:\Users\Potat\OneDrive\Project\自动设置程序相关性\自动设置程序相关性\obj\Release\CoreDirector.pdb
